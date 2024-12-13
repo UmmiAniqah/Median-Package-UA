@@ -1,0 +1,8 @@
+exportPattern("^[[:alpha:]]+")
+export(detect_missing_values)
+export(calculate_median)
+export(replace_with_median)
+export(update_data)
+
+Roxygen: list(markdown = TRUE)
+RoxygenNote: <version>
